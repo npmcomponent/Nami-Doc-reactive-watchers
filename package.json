@@ -1,0 +1,7 @@
+{
+  "name": "nami-doc-reactive-watchers",
+  "version": "0.0.1",
+  "dependencies": {
+    "ianstormtaylor-to-pascal-case": "git://github.com/npmcomponent/ianstormtaylor-to-pascal-case.git"
+  }
+}
